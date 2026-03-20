@@ -40,6 +40,7 @@ Text → Cleaning → Tokenization → Vectorization → Model → Prediction
 
 ## 📂 Project Structure
 
+```
 dl-sentiment-analysis/
 │
 ├── data/
@@ -54,7 +55,7 @@ dl-sentiment-analysis/
 │ └── predict.py
 │
 ├── README.md
-
+```
 
 ---
 
