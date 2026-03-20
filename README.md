@@ -79,4 +79,6 @@ Output : Sentiment : Positive
 
 ---
 
+## 👨‍💻 Author
+Abhihail Jacob
 
